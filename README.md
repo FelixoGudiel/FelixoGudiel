@@ -1,4 +1,4 @@
-![Desarrollador de Software Banner](./Banner.png)
+![Desarrollador de Software Banner](./Banner2.png)
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
 💡 &nbsp;Soy un desarrollador de software con experiencia práctica en el desarrollo de aplicaciones web y sistemas utilizando tecnologías modernas como Hibernate, Spring Boot y modelos MVC.\
