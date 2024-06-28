@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown"/>&nbsp;
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>&nbsp;
   <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/-Godot-05122A?style=flat&logo=godot&logoColor=2C2255" alt="Godot"/>
 </p>
 
 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
