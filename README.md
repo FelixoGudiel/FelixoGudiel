@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner2.png" alt="Desarrollador de Software Banner"/>
+  <img src="./Banner.png" alt="Desarrollador de Software Banner"/>
 </p>
 
 
