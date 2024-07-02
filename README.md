@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql" alt="MySQL"/>&nbsp;
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=Postgresql" alt="PostgreSQL"/>&nbsp;
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=2C2255" alt="Angular"/>
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=2C2255" alt="Node.js"/>
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>&nbsp;
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/>&nbsp;
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>&nbsp;
